@@ -8,7 +8,8 @@ oscilloscope. Encoder gave us 2 output signals (*Figure 6* and *Figure
 7*). So, I could analyze easily.
 
 ![](media/image3.jpeg)
-I examined encoder motor output-A and
+  
+  I examined encoder motor output-A and
 output-B rising edges on oscilloscope when output-A rising, if output-B
 is equal to 1 it means that motor rotating clockwise, if it is 0 it
 means that motor counter clockwise. So, I applied "attachInterrupt
